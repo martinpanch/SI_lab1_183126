@@ -2,6 +2,8 @@
 
 Група 1
 
+**Мартин Панчовски - 183126**
+
 ![alt text](https://github.com/martinpanch/SI_lab1_183126/blob/master/labcfg.png?raw=true)
 
 **Цикломатска комплексност**
